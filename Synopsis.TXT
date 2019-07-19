@@ -1,0 +1,25 @@
+Good evening! :)
+
+RockBlow! is a cross-the-road style game with single and multiplayer game modes. 
+Try racing to the top to win or kill your opponent. 
+Tons of hard-hitting weapons and nifty tricks to aid you in the process. 
+
+
+ELABORATION
+*****
+RockBlow! is a game of the hybrid rpg-roadcrossing genre.
+You can play the game by yourself or vs a friend.
+In singleplay try to maneuver the twin brothers forward the map to earn points.
+The map is being pulled to the bottom every 10 seconds or when a player reach the top,
+be careful to stay in sight or comes the death penalty.
+Multiplay pitchs the twin against each other. Reduce the other evil twin's health to 0 to triumph.
+Don't forget to utilize a rich arsenal of tricks,
+open game menu by pressing SPACE to see how to use SPRINT, MEELEE, RANGE, BOMBS, STOMP and REFILL. 
+Have fun!
+*****
+
+
+PRODUCTION
+*****
+The game is made using Visual Studio, written in C++, all assets and codes can be found in the installed game folder. 
+
